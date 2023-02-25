@@ -1,5 +1,6 @@
-# CursoAlgoritmos2022
-Material del Curso de Algoritmos 2022
+# Curso de Algoritmos en C++
+
+Material del Curso de nuestro curso de Algoritmos
 
 1. Analisis de Algoritmos
     1. Analisis asintotico
@@ -28,4 +29,4 @@ Material del Curso de Algoritmos 2022
 6. Buqueda de patrones
 7. Algoritmos Backtracking
 8. Divide y Conquista
-9. 
+
